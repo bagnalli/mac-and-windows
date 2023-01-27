@@ -1,0 +1,36 @@
+HUAWEI Matebook D15 Windows 11 Intel Core i5 11th Gen Laptop
+https://m.media-amazon.com/images/I/512yR00lkPS._AC_SL1000_.jpg
+
+New Lenovo Intel Quad Core Turbo 3.5GHz Laptop
+https://m.media-amazon.com/images/I/71QMYuOrGsL._AC_SL1500_.jpg
+
+ASUS Vivobook 15 X515JA 15.6 Full HD Laptop
+https://m.media-amazon.com/images/I/51hdZ3ueeqL._AC_SL1000_.jpg
+
+windows logo 
+https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31
+
+Bill Gates
+https://cdn.theatlantic.com/thumbor/hSPXl-5WrVXXFwwe2xlEC-RGcv0=/0x0:2492x1402/1952x1098/media/img/mt/2021/02/GettyImages_850154658/original.jpg
+
+
+
+
+For each <div> include:
+
+<h1> tag of your choice to grab the users attention to the Mac or Windows <div>
+
+Include 3 Images of Mac Laptops or Windows Laptops (depending on your section) and 
+include them within their own <div> Elements.
+
+Include a <p> element under each image describing the image.
+
+Include an <ol> element of the top 3 laptops (depending on your <div>)
+
+Include an <ul> element with 3 prices of your laptops
+
+These prices could be based on a real product or could be made up
+
+Include an <a> tag to Apple's Website or Microsoft Website (depending on the <div> you’re working on.)
+
+Commit and push your final work back to GitHub!

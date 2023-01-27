@@ -1,0 +1,70 @@
+*{
+   font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    /* margin padding */
+    padding-left: 10rem;
+    padding-right: 10rem;
+    
+    /* decoration */
+    color: white;
+    background-image: url(https://images.unsplash.com/photo-1541280910158-c4e14f9c94a3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #423b3b68;
+}
+
+h1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+}
+
+
+main{
+    background-color: #423b3b68;
+    padding-right: 1rem;
+}
+
+
+img{
+    width: 50%;
+}
+
+/* IDs */
+
+#windows-h1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* decoration */
+    text-shadow: 1px 1px 4px red, 1px 1px 4px blue, 1px 1px 4px green, 1px 1px 4px yellow;
+}
+
+#windows-logo{
+    margin-top: .4em;
+    padding-left: 1em;
+width: 10%;
+height: 10%;
+}
+
+
+#img-bill-gates{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+   width:  98%;
+   margin-left: .5em;
+   margin-right: 0em;
+}
